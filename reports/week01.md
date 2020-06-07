@@ -29,3 +29,6 @@ API 제공 제2금융권은 없음
 ## 농협 API
 농협에서 이체 API 를 제공하고 있습니다. [공식 문서](https://developers.nonghyup.com/service/SE_3010)
 
+## 그외
+* 이노페이 [공식문서](http://web.innopay.co.kr/s_sort/p_instead)
+* 그 외 가상화폐 거래소
