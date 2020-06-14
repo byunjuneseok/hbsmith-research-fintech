@@ -21,3 +21,4 @@
 
 *리포트*
 - [Week 01](./reports/week01.md)
+- [Week 02](./reports/week02.md)
